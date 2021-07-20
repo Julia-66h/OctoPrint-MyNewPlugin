@@ -55,3 +55,4 @@ Commit your code, then push it to your plugin's repository (this assumes you alr
 Congratulations, you are now the proud maintainer of a new OctoPrint plugin! :) Don't forget to add an entry to the
 [wiki](https://github.com/foosel/OctoPrint/wiki#plugins) once it's suitable for general consumption, so that others
 may find it!
+# OctoPrint-MyNewPlugin
