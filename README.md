@@ -56,3 +56,4 @@ Congratulations, you are now the proud maintainer of a new OctoPrint plugin! :) 
 [wiki](https://github.com/foosel/OctoPrint/wiki#plugins) once it's suitable for general consumption, so that others
 may find it!
 # OctoPrint-MyNewPlugin
+# OctoPrint-MyNewPlugin
